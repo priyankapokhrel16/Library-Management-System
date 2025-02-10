@@ -95,14 +95,3 @@ The source code of this project is written in **PHP**. So, you'll require **WAMP
 3. Configure `dbcon.php` 
 4. Run **`localhost/{YOUR FOLDER NAME}`**
 
-## Need help?
-
-```javascript
-
-  if (needHelp === true) {
-     var emailId = "vinitshahdeo@gmail.com";
-     // email is the best way to reach out to me.
-     sendEmail(emailId);
-  }
-
-```
